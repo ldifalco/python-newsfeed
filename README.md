@@ -3,6 +3,9 @@
 # Python Newsfeed
  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
+![100-homepage](https://user-images.githubusercontent.com/81760763/143322766-56df69f3-e35c-4b5d-bc9c-74bb9053639d.png)
+![100-single-post](https://user-images.githubusercontent.com/81760763/143322768-f8bb5bcc-89b7-41ff-88eb-13830479d9ed.png)
  
 
 ## Description 
@@ -52,3 +55,4 @@ This application is covered under the MIT license.
 ## Questions 
 
 Contact Me Here: luke.difalco52@gmail.com 
+
